@@ -11,7 +11,7 @@
 
     Introduction
 
-        Welcome to ViewportService! The easy-to-use service for 
+        Welcome to ViewportService! The easy-to-use service for creating viewportframes!
 
     Documentation
 
@@ -56,7 +56,7 @@
                 Inserts a worldmodel into a frame.
 
                 Module:Remove(FrameName (string), ModelName (string))
-                Sets the angle of a model.
+                Removes a model from a frame.
 
                 Module:Angle(FrameName (string), ModelName (string), Angle (CFrame))
                 Sets the angle of a model.
