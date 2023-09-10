@@ -5,6 +5,6 @@ It allows developers to handle the creation easier, without the need of creating
 ## Features
 - Viewport caching and model caching
 - Easy handling of models
-- [Documentation](https://github.com/fishtank-co/ViewportService/wiki)
+- (Documentation)[https://github.com/fishtank-co/ViewportService/wiki]
 
 Coded in Visual Studio Code + Rojo 7
