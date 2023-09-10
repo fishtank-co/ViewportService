@@ -1,0 +1,12 @@
+{
+  "name": "ViewportService",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "ViewportService": {
+        "$path": "src/shared/ViewportService"
+      }
+    }
+  }
+}
